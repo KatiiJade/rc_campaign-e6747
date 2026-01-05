@@ -20,11 +20,12 @@ To start off the campaign there a four pages that I recommend you read.
 ## Recently Updated
 | File                                                                                                | Last Modified       |
 | --------------------------------------------------------------------------------------------------- | ------------------- |
+| [[Atlas/Worlds/Selûne (Moon)\|Selûne (Moon)]]                                                    | 01/06/26 - 02:25 AM |
+| [[Characters/Socorro\|Socorro]]                                                                  | 01/06/26 - 02:25 AM |
 | [[Atlas/Landmasses/Shyr\|Shyr]]                                                                  | 01/06/26 - 02:21 AM |
 | [[Religion & Deities/Temple of Oghma\|Temple of Oghma]]                                          | 01/06/26 - 02:19 AM |
 | [[Factions & Organisations/La Revolucíon\|La Revolucíon]]                                        | 01/06/26 - 02:17 AM |
 | [[Player Handbook/Campaign Information\|Campaign Information]]                                   | 01/06/26 - 02:16 AM |
-| [[Characters/Socorro\|Socorro]]                                                                  | 01/06/26 - 02:14 AM |
 | [[Factions & Organisations/Palace of Exile\|Palace of Exile]]                                    | 01/06/26 - 02:13 AM |
 | [[Atlas/Civilisations/Janya\|Janya]]                                                             | 01/06/26 - 02:09 AM |
 | [[Player Handbook/Character Affiliation Options/Monster Hunters' Guild\|Monster Hunters' Guild]] | 01/06/26 - 02:08 AM |
@@ -34,7 +35,6 @@ To start off the campaign there a four pages that I recommend you read.
 | [[Atlas/Landmasses/Gizmiri\|Gizmiri]]                                                            | 01/06/26 - 01:52 AM |
 | [[Atlas/Landmasses/Enstar\|Enstar]]                                                              | 01/06/26 - 01:51 AM |
 | [[Atlas/Wildspaces/Realmspace\|Realmspace]]                                                      | 01/06/26 - 01:51 AM |
-| [[Atlas/Planes/Deep Ethereal\|Deep Ethereal]]                                                    | 01/06/26 - 01:50 AM |
 
 { .block-language-dataview}
 

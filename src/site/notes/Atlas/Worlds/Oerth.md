@@ -21,5 +21,5 @@ The standard year is 360 days long and consists of twelve twenty-eight-day month
 ||   |   |Day of Worship||   |Day of Rest|
 
 ## Locations
-[[Atlas/Civilisations/Zinda\|Zinda]] is located in the [[Atlas/Worlds/Lordship Isles\|Lordship Isles]].
+[[Atlas/Civilisations/Zinda\|Zinda]] is located in the [[Atlas/Landmasses/Lordship Isles\|Lordship Isles]].
 

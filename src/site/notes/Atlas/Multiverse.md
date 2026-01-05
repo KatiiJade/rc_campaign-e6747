@@ -3,7 +3,7 @@
 ---
 
 
-The Multiverse of this DND campaign can include any official, partnered, third party, or unofficial homebrew worlds and realities. One of the worlds I have used is from a previous editions of DND. 
+The Multiverse of this DND campaign can include any official, partnered, third party, or unofficial homebrew worlds and realities. Some of the worlds I have used are from a previous editions of DND. 
 
 Most of the information on this page is from other sources. I have included the sources for your reference.
 
@@ -65,7 +65,7 @@ No civilisation is from the Feywild, but [[Atlas/Civilisations/Atagua\|Atagua]] 
 - [[Atlas/Worlds/Nerath\|Nerath]] is parallel dimension of [[Atlas/Worlds/Toril\|Toril]] that is home to [[Atlas/Civilisations/Yongjing\|Yongjing]]
 
 ## [[Atlas/Planes/Outlands\|Outlands]]
-- [[Atlas/Worlds/Elysium\|Elysium]] - [[Atlas/Worlds/River Oceanus\|River Oceanus]] is home to [[Atlas/Civilisations/Dayawlongon\|Dayawlongon]]
+- [[Atlas/Worlds/Elysium\|Elysium]] - [[Atlas/Landmasses/River Oceanus\|River Oceanus]] is home to [[Atlas/Civilisations/Dayawlongon\|Dayawlongon]]
 
 ## [[Atlas/Planes/Shadowfell\|Shadowfell]]
 - [[Atlas/Civilisations/Godsbreath\|Godsbreath]] is a [[Atlas/Planes/Domain of Dread\|Domain of Dread]] that exists as a demi-plane of Shadowfell 

@@ -11,7 +11,7 @@
 > ##  Location
 > | Header | Header |
 > | --- | --- |
-> |Headquarters in the [[Palace of Exile\|Palace of Exile]]|
+> |Headquarters in the [[Factions & Organisations/Palace of Exile\|Palace of Exile]]|
 > ## Structure
 > | Header | Header |
 > | --- | --- |
@@ -54,5 +54,5 @@ Characters to take on roles of new recruits. Suggested backgrounds include: Folk
 ## Allies
 Shieldbearers are mostly allied with groups on the Radiant Citadel. Their allies include: 
 - [[Player Handbook/Character Affiliation Options/House of Convalescence\|House of Convalescence]]
-- [[Palace of Exile\|Palace of Exile]]
+- [[Factions & Organisations/Palace of Exile\|Palace of Exile]]
 - [[Player Handbook/Character Affiliation Options/Speakers for the Ancestors\|Speakers for the Ancestors]]

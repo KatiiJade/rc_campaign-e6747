@@ -8,7 +8,7 @@
 > | Header | Header |
 > |---| --- |
 > | **Aliases** | City of Judgement |
-> | **Location** |[[Atlas/Worlds/Krynn\|Krynn]], Island of [[Atlas/Worlds/Enstar\|Enstar]]  |
+> | **Location** |[[Atlas/Worlds/Krynn\|Krynn]], Island of [[Atlas/Landmasses/Enstar\|Enstar]]  |
 > | **Society** | Walled hierarchal city-state |
 > |**Demonym** | - |
 > | **Religions** | Spiritual and ritual practices |

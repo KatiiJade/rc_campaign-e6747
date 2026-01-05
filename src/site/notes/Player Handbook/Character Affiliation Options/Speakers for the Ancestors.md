@@ -60,5 +60,5 @@ Complex relation with governing bodies across the Great Civilisations.
 
 Allied with many groups within the Radiant Citadel including:
 - [[Player Handbook/Character Affiliation Options/House of Convalescence\|House of Convalescence]]
-- [[Palace of Exile\|Palace of Exile]]
+- [[Factions & Organisations/Palace of Exile\|Palace of Exile]]
 - [[Player Handbook/Character Affiliation Options/Shieldbearers\|Shieldbearers]]

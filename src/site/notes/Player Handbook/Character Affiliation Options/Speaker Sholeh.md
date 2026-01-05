@@ -57,7 +57,7 @@ Allied with many groups within the Citadel along with Governments and Councils o
 | [[Dawn Incarnates\|Dawn Incarnates]] | Spirits from the Civilisations bound within gemstones. Provide ancestial wisdom to the Speakers. | 
 | [[Player Handbook/Character Affiliation Options/House of Convalescence\|House of Convalescence]] | Place of healing in the Citadel. |
 | [[Player Handbook/Character Affiliation Options/Radiant Academy\|Radiant Academy]] | Sholeh's Mages are often trained at this Academy. |
-| [[Palace of Exile\|Palace of Exile]] | Recovery centre for refugees. |
+| [[Factions & Organisations/Palace of Exile\|Palace of Exile]] | Recovery centre for refugees. |
 | [[Player Handbook/Character Affiliation Options/Shieldbearers\|Shieldbearers]] | Defence and Humanitarian Aid Force of the Citadel. |
 
 

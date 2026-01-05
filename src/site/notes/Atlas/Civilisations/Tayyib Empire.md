@@ -7,7 +7,7 @@
 > ## Information
 > | Header | Header |
 > |---| --- |
-> | **Location** |  Parallel Dimension of [[Atlas/Worlds/Toril\|Toril]]: [[Atlas/Worlds/Abeir\|Abeir]], [[Atlas/Worlds/Shyr\|Shyr]]] |
+> | **Location** |  Parallel Dimension of [[Atlas/Worlds/Toril\|Toril]]: [[Atlas/Worlds/Abeir\|Abeir]], [[Atlas/Landmasses/Shyr\|Shyr]]] |
 > | **Society** | War-torn state, Industrial urban cosmopolitan |
 > |**Demonym** | - |
 > | **Religions** | [[Iwahhid\|Iwahhid]] - Adherents are called [[Muwahhid\|Muwahhid]]. |

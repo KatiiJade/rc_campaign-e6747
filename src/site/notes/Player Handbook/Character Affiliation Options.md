@@ -39,7 +39,7 @@ Your affiliated organisation or NPC offers your character/party a number of perk
 #### Campaign Specific Benefits
 The [[Player Handbook/Character Affiliation Options/Speakers for the Ancestors\|Speakers for the Ancestors]] require that basic income and housing is provided to all at the [[Atlas/Radiant Citadel\|Radiant Citadel]].  
 As such, your affiliated organisation or NPC will provide basic income that covers food, water, and common needs, along with basic housing such as a dormitory or share house style.  
-If you choose not to have an affiliation that can provide this, you will either be a refugee sheltered at the [[Palace of Exile\|Palace of Exile]]or a denizen provided with public housing and basic income by the [[Player Handbook/Character Affiliation Options/Speakers for the Ancestors\|Speakers for the Ancestors]].
+If you choose not to have an affiliation that can provide this, you will either be a refugee sheltered at the [[Factions & Organisations/Palace of Exile\|Palace of Exile]] or a denizen provided with public housing and basic income by the [[Player Handbook/Character Affiliation Options/Speakers for the Ancestors\|Speakers for the Ancestors]].
 
 
 ### Types of Assignments

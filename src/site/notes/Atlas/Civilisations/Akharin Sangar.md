@@ -7,7 +7,7 @@
 > ## Information
 > | Header | Header |
 > |---| --- |
-> | **Location** | [[Atlas/Worlds/Midgard\|Midgard]], [[Atlas/Worlds/Gizmiri\|Gizmiri]] |
+> | **Location** | [[Atlas/Worlds/Midgard\|Midgard]], [[Atlas/Landmasses/Gizmiri\|Gizmiri]] |
 > | **Society** | Isolationist city-state |
 > |**Demonym** | Sangarians |
 > | **Religions** | [[Sunweaver\|Sunweaver]] |

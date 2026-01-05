@@ -17,9 +17,9 @@ An Exandrian year lasts 328 days over the course of 11 months. Each day is 24 ho
 **Continents**
 - Tal'Dorei
 - Issylra
-- [[Atlas/Worlds/Marquet\|Marquet]]
+- [[Atlas/Landmasses/Marquet\|Marquet]]
 - Wildemount
 - Domunas/The Shattered Teeth
 
 ## Locations
-[[Atlas/Civilisations/San Citlán\|San Citlán]] is located in [[Atlas/Worlds/Marquet\|Marquet]].
+[[Atlas/Civilisations/San Citlán\|San Citlán]] is located in [[Atlas/Landmasses/Marquet\|Marquet]].

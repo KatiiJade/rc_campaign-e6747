@@ -55,4 +55,4 @@ The Shieldbearers have prohibited this guild from undertaking quests with the Ci
 ## Allies
 The Guild maintains guild houses in all the Radiant Citadel Civilisations except [[Atlas/Civilisations/Atagua\|Atagua]].
 
-This Guild does not have many allies. However, it is rumoured that [[Atash\|Atash]], the angelic ruler of [[Akharin Sanghar\|Akharin Sanghar]] provides the funding for the Guild.
+This Guild does not have many allies. However, it is rumoured that [[Atash\|Atash]], the angelic ruler of [[Atlas/Civilisations/Akharin Sangar\|Akharin Sangar]] provides the funding for the Guild.

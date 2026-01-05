@@ -13,4 +13,4 @@ The dragons of Midgard correlate to the elements rather than to colours and meta
 The Midgard pantheon has needs, and the urge to meddle. The gods dispense spells and miracles to their faithful, but they make clear demands of their worshippers and priesthoods. The gods also argue, sire children to rule kingdoms, and foment wars and feuds. 
 
 ## Locations
-[[Atlas/Civilisations/Akharin Sangar\|Akharin Sangar]] is located in [[Atlas/Worlds/Gizmiri\|Gizmiri]]
+[[Atlas/Civilisations/Akharin Sangar\|Akharin Sangar]] is located in [[Atlas/Landmasses/Gizmiri\|Gizmiri]]

@@ -4,6 +4,7 @@
 
 # Well met ethereal explorer!
 This wiki provides player information on our Radiant Citadel campaign based on the official anthology **Journeys through the Radiant Citadel**. I will be updating this wiki with new information as we progress through the campaign. If you would like to share something from your character on this wiki, please let me know.
+
 Thank you all for joining me on this campaign. I am excited to meet your characters!
 
 *In the heart of the Ethereal Plane lies an ancient and mysterious city called the Radiant Citadel. Through tradition, cooperation, and ancestral magic, fifteen civilisations are bound to this wondrous site.* 
@@ -17,23 +18,23 @@ To start off the campaign there a four pages that I recommend you read.
 4. [[Player Handbook/Character Affiliation Options\|Character Affiliation Options]] - will provided you with details on organisation or NPC affiliations that your character may start with.
 
 ## Recently Updated
-| File                                                    | Last Modified       |
-| ------------------------------------------------------- | ------------------- |
-| [[Atlas/Worlds/Gizmiri\|Gizmiri]]                    | 01/06/26 - 01:52 AM |
-| [[Atlas/Worlds/Enstar\|Enstar]]                      | 01/06/26 - 01:51 AM |
-| [[Atlas/Wildspaces/Realmspace\|Realmspace]]          | 01/06/26 - 01:51 AM |
-| [[Atlas/Planes/Deep Ethereal\|Deep Ethereal]]        | 01/06/26 - 01:50 AM |
-| [[Atlas/Planes/Material Plane\|Material Plane]]      | 01/06/26 - 01:49 AM |
-| [[Atlas/Wildspaces/Greyspace\|Greyspace]]            | 01/06/26 - 01:46 AM |
-| [[Atlas/Worlds/Oerth\|Oerth]]                        | 01/06/26 - 01:45 AM |
-| [[Atlas/Worlds/Lordship Isles\|Lordship Isles]]      | 01/06/26 - 01:45 AM |
-| [[Atlas/Multiverse\|Multiverse]]                     | 01/06/26 - 01:38 AM |
-| [[Atlas/Great Civilisations\|Great Civilisations]]   | 01/06/26 - 01:37 AM |
-| [[Atlas/Worlds/Shyr\|Shyr]]                          | 01/06/26 - 01:37 AM |
-| [[Atlas/Worlds/Abeir\|Abeir]]                        | 01/06/26 - 01:35 AM |
-| [[Atlas/Civilisations/Tayyib Empire\|Tayyib Empire]] | 01/06/26 - 01:35 AM |
-| [[Atlas/Worlds/Nerath\|Nerath]]                      | 01/06/26 - 01:26 AM |
-| [[Atlas/Worlds/Mystara\|Mystara]]                    | 01/06/26 - 01:17 AM |
+| File                                                                                                | Last Modified       |
+| --------------------------------------------------------------------------------------------------- | ------------------- |
+| [[Religion & Deities/Temple of Oghma\|Temple of Oghma]]                                          | 01/06/26 - 02:19 AM |
+| [[Factions & Organisations/La Revolucíon\|La Revolucíon]]                                        | 01/06/26 - 02:17 AM |
+| [[Player Handbook/Campaign Information\|Campaign Information]]                                   | 01/06/26 - 02:16 AM |
+| [[Characters/Socorro\|Socorro]]                                                                  | 01/06/26 - 02:14 AM |
+| [[Factions & Organisations/Palace of Exile\|Palace of Exile]]                                    | 01/06/26 - 02:13 AM |
+| [[Atlas/Civilisations/Janya\|Janya]]                                                             | 01/06/26 - 02:09 AM |
+| [[Player Handbook/Character Affiliation Options/Monster Hunters' Guild\|Monster Hunters' Guild]] | 01/06/26 - 02:08 AM |
+| [[Player Handbook/Character Affiliation Options\|Character Affiliation Options]]                 | 01/06/26 - 02:06 AM |
+| [[Home Page\|Home Page]]                                                                         | 01/06/26 - 02:00 AM |
+| [[Atlas/Multiverse\|Multiverse]]                                                                 | 01/06/26 - 01:58 AM |
+| [[Atlas/Landmasses/Gizmiri\|Gizmiri]]                                                            | 01/06/26 - 01:52 AM |
+| [[Atlas/Landmasses/Enstar\|Enstar]]                                                              | 01/06/26 - 01:51 AM |
+| [[Atlas/Wildspaces/Realmspace\|Realmspace]]                                                      | 01/06/26 - 01:51 AM |
+| [[Atlas/Planes/Deep Ethereal\|Deep Ethereal]]                                                    | 01/06/26 - 01:50 AM |
+| [[Atlas/Planes/Material Plane\|Material Plane]]                                                  | 01/06/26 - 01:49 AM |
 
 { .block-language-dataview}
 

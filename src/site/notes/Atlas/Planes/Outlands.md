@@ -11,4 +11,4 @@ The Outlands is a great disk. In fact, those who envision the Outer Planes as a 
 Evenly spaced around the outside edge of the circle are the gate-towns: sixteen settlements, each built around a portal leading to one of the Outer Planes. The Gate-Towns of the Outlands table lists all sixteen gate-towns and the Outer Planes they connect to. Each gate-town shares many of the characteristics of the plane where its gate leads. Planar emissaries often meet in these gate-towns, so it isn’t unusual to see strange interactions, such as a Celestial and a Fiend arguing in a tavern while sharing a fine bottle of wine.
 
 ## Locations
-[[Atlas/Worlds/River Oceanus\|River Oceanus]] in [[Atlas/Worlds/Elysium\|Elysium]] in the Outlands is home to the archipelago [[Atlas/Civilisations/Dayawlongon\|Dayawlongon]].
+[[Atlas/Landmasses/River Oceanus\|River Oceanus]] in [[Atlas/Worlds/Elysium\|Elysium]] in the Outlands is home to the archipelago [[Atlas/Civilisations/Dayawlongon\|Dayawlongon]].

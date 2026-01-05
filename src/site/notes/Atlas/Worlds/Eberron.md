@@ -18,9 +18,9 @@ Lands of Eberron include:
 - Khyber
 - North and South Poles
 - Sarlona
-- [[Atlas/Worlds/Xen'drik\|Xen'drik]]
+- [[Atlas/Landmasses/Xen'drik\|Xen'drik]]
 
 ## Locations
-[[Atlas/Civilisations/Sensa Empire\|Sensa Empire]] is located in [[Atlas/Worlds/Xen'drik\|Xen'drik]].
+[[Atlas/Civilisations/Sensa Empire\|Sensa Empire]] is located in [[Atlas/Landmasses/Xen'drik\|Xen'drik]].
 
 

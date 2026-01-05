@@ -9,7 +9,7 @@
 > ## Information
 > | Header | Header |
 > |---| --- |
-> | **Location** | [[Atlas/Wildspaces/Greyspace\|Greyspace]] ,  [[Atlas/Worlds/Oerth\|Oerth]], [[Atlas/Worlds/Lordship Isles\|Lordship Isles]] |
+> | **Location** | [[Atlas/Wildspaces/Greyspace\|Greyspace]] ,  [[Atlas/Worlds/Oerth\|Oerth]], [[Atlas/Landmasses/Lordship Isles\|Lordship Isles]] |
 > | **Society** | Class divide, commerce, academic and art hub |
 > |**Demonym** | Zindanese |
 > | **Religions** | Ancestral Faith - [[Daturas\|Daturas]] act as spirit shepherds |

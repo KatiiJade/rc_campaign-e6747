@@ -49,12 +49,12 @@ Fellow roles can include:
 - Explorer - Acolyte, Folk Hero, Guild Artisan, Outlander, Sailor
 - Expert - Any
 
-The Cartographer's Collective is adjoined to a [[Temple of Oghma\|Temple of Oghma]] (God of Knowledge). Acolytes of [[Oghma\|Oghma]] are often also Fellows of the Collective.
+The Cartographer's Collective is adjoined to a [[Religion & Deities/Temple of Oghma\|Temple of Oghma]] (God of Knowledge). Acolytes of [[Oghma\|Oghma]] are often also Fellows of the Collective.
 
 ## Allied Organisations
 | Civilisation | Allies | Purpose |
 |:------------------|:-----|:-----|
-| [[Atlas/Radiant Citadel\|Radiant Citadel]] | [[Temple of Oghma\|Temple of Oghma]] | Temple is attached the building. Many acolytes of [[Oghma\|Oghma]] are also Fellows of the Cartographers' Collective. |
+| [[Atlas/Radiant Citadel\|Radiant Citadel]] | [[Religion & Deities/Temple of Oghma\|Temple of Oghma]] | Temple is attached the building. Many acolytes of [[Oghma\|Oghma]] are also Fellows of the Cartographers' Collective. |
 | [[Atlas/Radiant Citadel\|Radiant Citadel]] | [[Player Handbook/Character Affiliation Options/Radiant Academy\|Radiant Academy]] | Works with Archaeology and History scholars. |
 | [[Atlas/Radiant Citadel\|Radiant Citadel]] | [[Player Handbook/Character Affiliation Options/Speaker Sholeh\|Speaker Sholeh]] | Works with Sholeh to rediscover lost Civilisations. |
 | [[Atlas/Civilisations/Atagua\|Atagua]] | [[Silver Tapir Monastery\|Silver Tapir Monastery]] | Collective of mystics known as Green Doctors who study magic and herbal medicine. They also study Atagua's connection to the Feywild. |

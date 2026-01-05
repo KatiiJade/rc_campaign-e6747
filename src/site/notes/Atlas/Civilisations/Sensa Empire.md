@@ -7,7 +7,7 @@
 > ## Information
 > | Header | Header |
 > |---| --- |
-> | **Location** | [[Atlas/Worlds/Eberron\|Eberron]],  [[Atlas/Worlds/Xen'drik\|Xen'drik]], [[Menechtarun Desert\|Menechtarun Desert]] |
+> | **Location** | [[Atlas/Worlds/Eberron\|Eberron]],  [[Atlas/Landmasses/Xen'drik\|Xen'drik]], [[Menechtarun Desert\|Menechtarun Desert]] |
 > | **Society** | Three city-state empire |
 > |**Demonym** | Sensans |
 > | **Religions** | [[Acolytes of the Faceless Prophet\|Acolytes of the Faceless Prophet]] |

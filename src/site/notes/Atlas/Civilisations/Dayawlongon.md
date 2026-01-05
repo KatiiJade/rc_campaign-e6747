@@ -7,7 +7,7 @@
 > ## Information
 > | Header | Header |
 > |---| --- |
-> | **Location** | [[Atlas/Planes/Outlands\|Outlands]],  [[Atlas/Worlds/Elysium\|Elysium]], [[Atlas/Worlds/River Oceanus\|River Oceanus]]|
+> | **Location** | [[Atlas/Planes/Outlands\|Outlands]],  [[Atlas/Worlds/Elysium\|Elysium]], [[Atlas/Landmasses/River Oceanus\|River Oceanus]]|
 > | **Society** | Clan-based archipelago |
 > |**Demonym** |  Dayawlongos |
 > | **Religions** | [[Kamatayang-Langit\|Kamatayang-Langit]] |

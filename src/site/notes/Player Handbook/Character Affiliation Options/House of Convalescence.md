@@ -53,7 +53,7 @@ Requirement: any class that can cast healing spells or has healing abilities.
 
 ## Allies
 Allied with several groups in the Radiant Citadel including:
-- The [[Palace of Exile\|Palace of Exile]]
+- The [[Factions & Organisations/Palace of Exile\|Palace of Exile]]
 - The [[Player Handbook/Character Affiliation Options/Shieldbearers\|Shieldbearers]]
 - The [[Player Handbook/Character Affiliation Options/Speakers for the Ancestors\|Speakers for the Ancestors]]
 

@@ -7,4 +7,4 @@
 The planet [[Atlas/Worlds/Oerth\|Oerth]] is at the very center of a Wildspace system called Greyspace. 
 
 ## Locations
-[[Atlas/Civilisations/Zinda\|Zinda]] is located in the [[Atlas/Worlds/Lordship Isles\|Lordship Isles]], [[Atlas/Worlds/Oerth\|Oerth]].
+[[Atlas/Civilisations/Zinda\|Zinda]] is located in the [[Atlas/Landmasses/Lordship Isles\|Lordship Isles]], [[Atlas/Worlds/Oerth\|Oerth]].

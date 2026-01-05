@@ -10,7 +10,7 @@
 > | **Location** | [[Atlas/Planes/Ethereal Plane\|Ethereal Plane]], [[Atlas/Planes/Deep Ethereal\|Deep Ethereal]] |
 > | **Society** | Ethereal egalitarian settlement |
 > |**Demonym** |Citadel Denizens |
-> | **Religions** | [[Player Handbook/Character Affiliation Options/House of Convalescence\|House of Convalescence]] (Allfaiths Temple), [[Temple of Oghma\|Temple of Oghma]] |
+> | **Religions** | [[Player Handbook/Character Affiliation Options/House of Convalescence\|House of Convalescence]] (Allfaiths Temple), [[Religion & Deities/Temple of Oghma\|Temple of Oghma]] |
 > | **Political Type** | Collaborative multilateral council |
 > | **Council** | [[Player Handbook/Character Affiliation Options/Speakers for the Ancestors\|Speakers for the Ancestors]] |
 > | **Imports** | Alcohol, grain, livestock, ore, spices, textiles, and exotic goods from other lands  |
@@ -92,7 +92,7 @@ The [[Player Handbook/Character Affiliation Options/Speakers for the Ancestors\|
 The Speakers' first duty is to the Radiant Citadel, which sometimes puts them at odds with the governments of the founding civilizations, particularly in tariff disputes or major crises. Thus far, the Radiant Citadel's policy is to resolutely remain neutral in all conflicts—whether they involve the founding civilizations or otherwise. However, the Citadel seeks to rescue refugees and send humanitarian aid to the limits of its resources.
 
 ### Shieldbearers
-Headquartered in the [[Palace of Exile\|Palace of Exile]], the [[Player Handbook/Character Affiliation Options/Shieldbearers\|Shieldbearers]] have led the Radiant Citadel's rescue and relocation missions. Typically organised in cohorts of four to six members, they are deployed to lands in crisis. Strict rules of engagement prevent them from impacting local conditions or taking sides in a conflict; their mandate allows them only to extract those in danger and defend themselves if attacked. They are among the bravest of the Citadel, and heroes who die in service to the [[Player Handbook/Character Affiliation Options/Shieldbearers\|Shieldbearers]] receive the city's highest honours.
+Headquartered in the [[Factions & Organisations/Palace of Exile\|Palace of Exile]], the [[Player Handbook/Character Affiliation Options/Shieldbearers\|Shieldbearers]] have led the Radiant Citadel's rescue and relocation missions. Typically organised in cohorts of four to six members, they are deployed to lands in crisis. Strict rules of engagement prevent them from impacting local conditions or taking sides in a conflict; their mandate allows them only to extract those in danger and defend themselves if attacked. They are among the bravest of the Citadel, and heroes who die in service to the [[Player Handbook/Character Affiliation Options/Shieldbearers\|Shieldbearers]] receive the city's highest honours.
 
 ## Entering the Citadel
 Most visitors come to the city by passage on one of the [[Concord Jewels\|Concord Jewels]]. However, it's possible to find the Citadel through exploration of the [[Atlas/Planes/Deep Ethereal\|Deep Ethereal]]. The [[Auroral Diamond\|Auroral Diamond]] acts like a beacon for the lost and hopeless, and many who seek the Radiant Citadel within the [[Atlas/Planes/Deep Ethereal\|Deep Ethereal]] find their way there within a few days of searching.

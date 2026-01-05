@@ -7,7 +7,7 @@
 > ## Information
 > | Header | Header |
 > |---| --- |
-> | **Location** | [[Atlas/Worlds/Exandria\|Exandria]], [[Atlas/Worlds/Marquet\|Marquet]] |
+> | **Location** | [[Atlas/Worlds/Exandria\|Exandria]], [[Atlas/Landmasses/Marquet\|Marquet]] |
 > | **Society** | Industrial and class structured |
 > |**Demonym** | - |
 > | **Religions** | [[La Catrina\|La Catrina]] - Patron spirit of the city |

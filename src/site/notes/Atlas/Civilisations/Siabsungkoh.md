@@ -7,7 +7,7 @@
 > ## Information
 > | Header | Header |
 > |---| --- |
-> | **Location** | [[Atlas/Worlds/Toril\|Toril]], [[Atlas/Worlds/Kara-Tur\|Kara-Tur]] |
+> | **Location** | [[Atlas/Worlds/Toril\|Toril]], [[Atlas/Landmasses/Kara-Tur\|Kara-Tur]] |
 > | **Society** | Cosmopolitan collectivist society |
 > |**Demonym** | Siabsungkohian |
 > | **Religions** | [[Temple of Ember\|Temple of Ember]] - spirit and nature based worship |

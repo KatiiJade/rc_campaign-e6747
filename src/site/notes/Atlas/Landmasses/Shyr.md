@@ -9,4 +9,4 @@
 The only country of this continent known to the sages of Faerûn was the realm of Shyr, of which Akanûl was once part of, until it was exchanged with parts of the lands of Chondath and western Chessenta, which in turn became part of that Abeiran continent.
 
 ## Locations
-[[Atlas/Civilisations/Tayyib Empire\|Tayyib Empire]] is located in Shyr
+[[Atlas/Civilisations/Tayyib Empire\|Tayyib Empire]] is located in Shyr.

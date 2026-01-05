@@ -20,6 +20,7 @@ To start off the campaign there a four pages that I recommend you read.
 ## Recently Updated
 | File                                                                                                | Last Modified       |
 | --------------------------------------------------------------------------------------------------- | ------------------- |
+| [[Atlas/Landmasses/Shyr\|Shyr]]                                                                  | 01/06/26 - 02:21 AM |
 | [[Religion & Deities/Temple of Oghma\|Temple of Oghma]]                                          | 01/06/26 - 02:19 AM |
 | [[Factions & Organisations/La Revolucíon\|La Revolucíon]]                                        | 01/06/26 - 02:17 AM |
 | [[Player Handbook/Campaign Information\|Campaign Information]]                                   | 01/06/26 - 02:16 AM |
@@ -34,7 +35,6 @@ To start off the campaign there a four pages that I recommend you read.
 | [[Atlas/Landmasses/Enstar\|Enstar]]                                                              | 01/06/26 - 01:51 AM |
 | [[Atlas/Wildspaces/Realmspace\|Realmspace]]                                                      | 01/06/26 - 01:51 AM |
 | [[Atlas/Planes/Deep Ethereal\|Deep Ethereal]]                                                    | 01/06/26 - 01:50 AM |
-| [[Atlas/Planes/Material Plane\|Material Plane]]                                                  | 01/06/26 - 01:49 AM |
 
 { .block-language-dataview}
 

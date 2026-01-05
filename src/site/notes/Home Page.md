@@ -17,23 +17,24 @@ To start off the campaign there a four pages that I recommend you read.
 4. [[Player Handbook/Character Affiliation Options\|Character Affiliation Options]] - will provided you with details on organisation or NPC affiliations that your character may start with.
 
 ## Recently Updated
-| File                                                                       | Last Modified       |
-| -------------------------------------------------------------------------- | ------------------- |
-| [[Atlas/Civilisations/Akharin Sangar\|Akharin Sangar]]                  | 01/05/26 - 09:27 PM |
-| [[Player Handbook/Campaign Information\|Campaign Information]]          | 01/05/26 - 08:34 PM |
-| [[Home Page\|Home Page]]                                                | 01/05/26 - 08:33 PM |
-| [[Player Handbook/Rules Encyclopedia\|Rules Encyclopedia]]              | 01/05/26 - 08:29 PM |
-| [[Items/Newspapers/The Citadel Today! Vol 1\|The Citadel Today! Vol 1]] | 01/05/26 - 08:29 PM |
-| [[Player Handbook/Safety Tools\|Safety Tools]]                          | 01/05/26 - 08:27 PM |
-| [[Atlas/Radiant Citadel\|Radiant Citadel]]                              | 01/05/26 - 08:27 PM |
-| [[Atlas/Great Civilisations\|Great Civilisations]]                      | 01/05/26 - 08:27 PM |
-| [[Atlas/Civilisations/Zinda\|Zinda]]                                    | 01/05/26 - 08:27 PM |
-| [[Atlas/Civilisations/Yongjing\|Yongjing]]                              | 01/05/26 - 08:27 PM |
-| [[Atlas/Civilisations/Yeonido\|Yeonido]]                                | 01/05/26 - 08:27 PM |
-| [[Atlas/Civilisations/Umizu\|Umizu]]                                    | 01/05/26 - 08:27 PM |
-| [[Atlas/Civilisations/Tletepec\|Tletepec]]                              | 01/05/26 - 08:27 PM |
-| [[Atlas/Civilisations/Tayyib Empire\|Tayyib Empire]]                    | 01/05/26 - 08:27 PM |
-| [[Atlas/Civilisations/Siabsungkoh\|Siabsungkoh]]                        | 01/05/26 - 08:27 PM |
+| File                                                    | Last Modified       |
+| ------------------------------------------------------- | ------------------- |
+| [[Atlas/Worlds/Gizmiri\|Gizmiri]]                    | 01/06/26 - 01:52 AM |
+| [[Atlas/Worlds/Enstar\|Enstar]]                      | 01/06/26 - 01:51 AM |
+| [[Atlas/Wildspaces/Realmspace\|Realmspace]]          | 01/06/26 - 01:51 AM |
+| [[Atlas/Planes/Deep Ethereal\|Deep Ethereal]]        | 01/06/26 - 01:50 AM |
+| [[Atlas/Planes/Material Plane\|Material Plane]]      | 01/06/26 - 01:49 AM |
+| [[Atlas/Wildspaces/Greyspace\|Greyspace]]            | 01/06/26 - 01:46 AM |
+| [[Atlas/Worlds/Oerth\|Oerth]]                        | 01/06/26 - 01:45 AM |
+| [[Atlas/Worlds/Lordship Isles\|Lordship Isles]]      | 01/06/26 - 01:45 AM |
+| [[Atlas/Multiverse\|Multiverse]]                     | 01/06/26 - 01:38 AM |
+| [[Atlas/Great Civilisations\|Great Civilisations]]   | 01/06/26 - 01:37 AM |
+| [[Atlas/Worlds/Shyr\|Shyr]]                          | 01/06/26 - 01:37 AM |
+| [[Atlas/Worlds/Abeir\|Abeir]]                        | 01/06/26 - 01:35 AM |
+| [[Atlas/Civilisations/Tayyib Empire\|Tayyib Empire]] | 01/06/26 - 01:35 AM |
+| [[Atlas/Worlds/Nerath\|Nerath]]                      | 01/06/26 - 01:26 AM |
+| [[Atlas/Worlds/Mystara\|Mystara]]                    | 01/06/26 - 01:17 AM |
 
 { .block-language-dataview}
 
+![the-radiant-citadel-kent-davis-dmg-2024-v0-fbk0ferskwde1 3.jpg](/img/user/Assets/the-radiant-citadel-kent-davis-dmg-2024-v0-fbk0ferskwde1%203.jpg)

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/umizu/"}
 ---
 
-> [!fas-infobox|h1-title no-th cyan]+ # Umizu
+> [!fas-infobox|h1-title no-th]+ # Umizu
 > ![umizu 2.jpg](/img/user/Assets/umizu%202.jpg)
 > ## Information
 > | Header | Header |

@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/godsbreath/"}
 ---
 
-
-
-> [!fas-infobox|h1-title no-th red]+ # Godsbreath
+> [!fas-infobox|h1-title no-th]+ # Godsbreath
 > ![Pasted image 20260104204626.png](/img/user/Assets/Pasted%20image%2020260104204626.png)
 > ## Information
 > | Header | Header |

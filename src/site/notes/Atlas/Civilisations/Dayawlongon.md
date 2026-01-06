@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/dayawlongon/"}
 ---
 
-> [!fas-infobox|h1-title no-th cyan]+ # Dayawlongon
+> [!fas-infobox|h1-title no-th]+ # Dayawlongon
 > ![Between-Tangled-Roots.jpg](/img/user/Assets/Between-Tangled-Roots.jpg)
 > ## Information
 > | Header | Header |

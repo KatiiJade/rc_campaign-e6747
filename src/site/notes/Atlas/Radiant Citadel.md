@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/radiant-citadel/"}
 ---
 
-> [!fas-infobox|h1-title no-th]+ # Radiant Citadel
+> [!fas-infobox|h1-title no-th white]+ # Radiant Citadel
 > ![alfven-ato-radiant-citadel-color-1.jpg](/img/user/Assets/alfven-ato-radiant-citadel-color-1.jpg)
 > ## Information
 > | Header | Header |

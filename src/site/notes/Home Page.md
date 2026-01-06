@@ -13,28 +13,28 @@ Thank you all for joining me on this campaign. I am excited to meet your charact
 ## Recommended Reading
 To start off the campaign there a four pages that I recommend you read.
 1. [[Player Handbook/Campaign Information\|Campaign Information]] - will provide you with basic campaign information, character creation details, and the call to adventure.
-2. [[Atlas/Radiant Citadel\|Radiant Citadel]] - will provide you with some information on the Radiant Citadel. We will begin our campaign in this location. It could also be you character's origin/home.
-3. [[Atlas/Great Civilisations\|Great Civilisations]] - will provide you with some brief information on the Great Civilisations. You may read all the Great Civilisation pages as well if you wish, but that is not necessary. They are there for you to use one as your character's origin/home.
+2. [[Atlas/Radiant Citadel\|Radiant Citadel]] - will provide you with some information on the Radiant Citadel. We will begin our campaign in this location. The end of each the page there is a 'Characters from' section that lists questions to think about for your character creation if your character is a denizen of the Citadel.
+3. [[Atlas/Great Civilisations\|Great Civilisations]] - will provide you with some information on the Great Civilisations. The end of each Civilisation page there is a 'Characters from' section that lists questions to think about for your character creation and some names for inspiration.
 4. [[Player Handbook/Character Affiliation Options\|Character Affiliation Options]] - will provided you with details on organisation or NPC affiliations that your character may start with.
 
 ## Recently Updated
-| File                                                    | Last Modified       |
-| ------------------------------------------------------- | ------------------- |
-| [[Atlas/Civilisations/Zinda\|Zinda]]                 | 01/06/26 - 01:41 PM |
-| [[Atlas/Civilisations/Yongjing\|Yongjing]]           | 01/06/26 - 01:40 PM |
-| [[Atlas/Civilisations/Yeonido\|Yeonido]]             | 01/06/26 - 01:40 PM |
-| [[Atlas/Civilisations/Tletepec\|Tletepec]]           | 01/06/26 - 01:40 PM |
-| [[Atlas/Civilisations/Umizu\|Umizu]]                 | 01/06/26 - 01:39 PM |
-| [[Multiverse Timeline\|Multiverse Timeline]]         | 01/06/26 - 01:38 PM |
-| [[Atlas/Civilisations/Tayyib Empire\|Tayyib Empire]] | 01/06/26 - 01:37 PM |
-| [[Atlas/Civilisations/Siabsungkoh\|Siabsungkoh]]     | 01/06/26 - 01:36 PM |
-| [[Atlas/Civilisations/Shankhabhumi\|Shankhabhumi]]   | 01/06/26 - 01:34 PM |
-| [[Atlas/Civilisations/Sensa Empire\|Sensa Empire]]   | 01/06/26 - 01:33 PM |
-| [[Atlas/Civilisations/Godsbreath\|Godsbreath]]       | 01/06/26 - 01:30 PM |
-| [[Atlas/Civilisations/San Citlán\|San Citlán]]       | 01/06/26 - 01:27 PM |
-| [[Atlas/Civilisations/Janya\|Janya]]                 | 01/06/26 - 01:23 PM |
-| [[Atlas/Civilisations/Djaynai\|Djaynai]]             | 01/06/26 - 01:16 PM |
-| [[Atlas/Civilisations/Dayawlongon\|Dayawlongon]]     | 01/06/26 - 01:10 PM |
+| File                                                         | Last Modified       |
+| ------------------------------------------------------------ | ------------------- |
+| [[Factions & Organisations/La Revolucíon\|La Revolucíon]] | 01/06/26 - 10:47 PM |
+| [[Atlas/Radiant Citadel\|Radiant Citadel]]                | 01/06/26 - 10:46 PM |
+| [[Atlas/Civilisations/Zinda\|Zinda]]                      | 01/06/26 - 10:46 PM |
+| [[Atlas/Civilisations/Yongjing\|Yongjing]]                | 01/06/26 - 10:46 PM |
+| [[Atlas/Civilisations/Yeonido\|Yeonido]]                  | 01/06/26 - 10:46 PM |
+| [[Atlas/Civilisations/Umizu\|Umizu]]                      | 01/06/26 - 10:46 PM |
+| [[Atlas/Civilisations/Tletepec\|Tletepec]]                | 01/06/26 - 10:46 PM |
+| [[Atlas/Civilisations/Tayyib Empire\|Tayyib Empire]]      | 01/06/26 - 10:46 PM |
+| [[Atlas/Civilisations/Siabsungkoh\|Siabsungkoh]]          | 01/06/26 - 10:46 PM |
+| [[Atlas/Civilisations/Shankhabhumi\|Shankhabhumi]]        | 01/06/26 - 10:45 PM |
+| [[Atlas/Civilisations/Sensa Empire\|Sensa Empire]]        | 01/06/26 - 10:45 PM |
+| [[Atlas/Civilisations/Janya\|Janya]]                      | 01/06/26 - 10:45 PM |
+| [[Atlas/Civilisations/Godsbreath\|Godsbreath]]            | 01/06/26 - 10:45 PM |
+| [[Atlas/Civilisations/Djaynai\|Djaynai]]                  | 01/06/26 - 10:45 PM |
+| [[Atlas/Civilisations/Dayawlongon\|Dayawlongon]]          | 01/06/26 - 10:45 PM |
 
 { .block-language-dataview}
 

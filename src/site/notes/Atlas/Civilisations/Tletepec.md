@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/tletepec/"}
 ---
 
-> [!fas-infobox|h1-title no-th orange]+ # Tletepec
+> [!fas-infobox|h1-title no-th]+ # Tletepec
 > ![Tletepec 1.png](/img/user/Assets/Tletepec%201.png)
 > ## Information
 > | Header | Header |

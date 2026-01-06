@@ -7,15 +7,21 @@ The [Journeys through the Radiant Citadel](https://www.dndbeyond.com/sources/dn
 
 There is an overarching plot that I would like to incorporate with the Player Characters and their own stories.
 
+### Difficulty Aim
+Mostly medium encounters with resource management. Occasional hard or deadly encounters. I will advise when an encounter is balanced for hard or deadly.
+
+### Milestone
+I will be using a milestone system.  As I want this campaign to be player directed, any party achievements will accumulate towards levelling up.
+Levelling up will take longer at higher levels.
+
 ## Setting
+We will be starting our adventure in the [[Atlas/Radiant Citadel\|Radiant Citadel]].
+
 The [[Atlas/Radiant Citadel\|Radiant Citadel]] is a large city located within the Deep Ethereal and is connected to different Civilisations across the [[Atlas/Multiverse\|Multiverse]].
 
 The Citadel was rediscovered 250 years ago by descendants of the original Civilisations after being lost for ages. Some Civilisations are still missing. These lost civilisations could be anywhere. 
 
 The floating structure wraps around a colossal gemstone that shines colour shifting light on the city that never sleeps. The Citadel is a collaborative society that showcases aspects of various cultures and beautiful ecology; along with advances in arcane magic, knowledge, and technology.
-
-## Difficulty Aim
-Mostly medium encounters with resource management. Occasional hard or deadly encounters. I will advise when an encounter is balanced for hard or deadly.
 
 ## Character Creation
 I will be running this campaign using 2024 5e rules. 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/sensa-empire/"}
 ---
 
-> [!fas-infobox|h1-title no-th orange]+ # Sensa Empire
+> [!fas-infobox|h1-title no-th]+ # Sensa Empire
 > ![Sensa 1.png](/img/user/Assets/Sensa%201.png)
 > ## Information
 > | Header | Header |

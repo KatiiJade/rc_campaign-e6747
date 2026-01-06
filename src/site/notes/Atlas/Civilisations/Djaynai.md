@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/djaynai/"}
 ---
 
-> [!fas-infobox|h1-title no-th blue]+ # Djaynai
+> [!fas-infobox|h1-title no-th]+ # Djaynai
 > ![112-12-001.castle-djaynai (1).jpg](/img/user/Assets/112-12-001.castle-djaynai%20(1).jpg)
 > ## Information
 > | Header | Header |

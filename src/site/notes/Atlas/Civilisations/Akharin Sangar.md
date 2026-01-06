@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/akharin-sangar/"}
 ---
 
-> [!fas-infobox|h1-title no-th yellow]+ # Akharin Sangar
+> [!fas-infobox|h1-title no-th]+ # Akharin Sangar
 >![Akharin Sangar.png](/img/user/Assets/Akharin%20Sangar.png)
 > ## Information
 > | Header | Header |

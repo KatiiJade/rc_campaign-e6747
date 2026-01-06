@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/tayyib-empire/"}
 ---
 
-> [!fas-infobox|h1-title no-th brown]+ # Tayyib Empire
+> [!fas-infobox|h1-title no-th]+ # Tayyib Empire
 > ![Tayyib 1.png](/img/user/Assets/Tayyib%201.png)
 > ## Information
 > | Header | Header |
@@ -60,21 +60,24 @@ The Tayyib Empire is a cosmopolitan mix of the native peoples of [[Suristhanam\|
 
 ### Faith and Religion
 The dominant faith is [[Iwahhid\|Iwahhid]], a philosophy that rejects idols and promotes worshiping the source of divinity rather than its fallible manifestations. Its adherents are called [[Muwahhid\|Muwahhid]]. Some erudite worshipers join the [[Imperial Ulema\|Imperial Ulema]], an order of [[Muwahhid\|Muwahhid]] scholars sponsored by the throne. The Ulema provides spellcasting services to the populace and maintains the empire's infrastructure of magical street lights and teleportation circles.
+
 ### Fashion and Food
 Clothing in the empire tends to be long and billowing. Men's fashion includes jamas and sherwanis, or loose kurtas secured with a shawl. Women's fashion includes saris and salwars. Clothing is colourful and patterned, with some wealthy citizens sporting garments bearing magic that perfumes the wearer on command or changes color.
 
 Tayyib dishes are creamy and mildly spiced, cooked with yogurt, and served with rice or flatbreads. Dried lentils are soaked and made into various dal dishes, while slow-cooked rice, spices, and vegetables are transformed into fragrant biryani. Faithful Muwahhid avoid alcohol and predator meat, and many are vegetarians.
 ### Monarchy and Order
 Authority in the Tayyib Empire stems from [[Empress Firuzeh\|Empress Firuzeh]]. Nobles who hold prewar titles are respected, while state-appointed judges enforce the law across the empire. This system is prone to corruption, but the empress's agents vigilantly ferret out dishonest officials, delegating that task to trustworthy adventurers when necessary.
+
 ### The Tayyib Empire Today
 Though the scars of war are visible throughout [[Suristhanam\|Suristhanam]], the Tayyib Empire is cosmopolitan, industrial, and urbane. Where rebuilding is in full swing, the streets are illuminated with magic and enchanted trinkets can be purchased on the open market. Where it isn’t, the work for that infrastructure has begun, but the wealth hasn’t yet followed. In rural areas, the backcountry, and the most devastated parts of the country, there is still great deprivation as people try to piece their lives back together or wait for that promised golden age to arrive.
+
 ### The Walking Dead
 In the Tayyib Empire, the undead are mobile, murderous reminders of the war’s toll. The old capitol at [[Sherpatta\|Sherpatta]] was destroyed in a necromantic ritual, unleashing thousands of undead upon the land. Unquiet corpses and restless shades are a constant presence, living evidence of atrocities buried by the simple length and brutality of the war. While destroying the undead is a practical move everywhere, in the Tayyib Empire it has a second role: bringing peace and closure to the bereaved. Organisations, like the [[Sherpatta Gravetenders\|Sherpatta Gravetenders]], hunt down the undead, then use magic and investigative work to learn who they were and how they died. The information
 is delivered to families and used to bring justice to the worst villains who survived the war.
 
 Adventurers are often brought in to assist with this task. The Gravetenders are a volunteer movement, while the army moves slowly and on its own schedule. Often enough, local heroes are the only ones capable of destroying a concentration of the undead and learning their tales.
 
-# Characters from Tayyib Empire
+## Characters from Tayyib Empire
 
 If players want to create characters from Tayyib Empire, consider asking them the following questions during character creation:
 

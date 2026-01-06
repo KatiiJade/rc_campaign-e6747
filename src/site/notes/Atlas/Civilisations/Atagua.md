@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/atagua/"}
 ---
 
-> [!fas-infobox|h1-title no-th purple]+ # Atagua
+> [!fas-infobox|h1-title no-th]+ # Atagua
 > ![atagua3.png](/img/user/Assets/atagua3.png)
 > ## Information
 > | Header | Header |

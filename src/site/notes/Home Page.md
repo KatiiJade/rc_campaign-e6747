@@ -20,21 +20,21 @@ To start off the campaign there a four pages that I recommend you read.
 ## Recently Updated
 | File                                                                                                | Last Modified       |
 | --------------------------------------------------------------------------------------------------- | ------------------- |
+| [[Multiverse Timeline\|Multiverse Timeline]]                                                     | 01/06/26 - 01:14 PM |
+| [[Atlas/Civilisations/Dayawlongon\|Dayawlongon]]                                                 | 01/06/26 - 01:10 PM |
+| [[Atlas/Civilisations/Atagua\|Atagua]]                                                           | 01/06/26 - 01:02 PM |
+| [[Atlas/Civilisations/Akharin Sangar\|Akharin Sangar]]                                           | 01/06/26 - 12:57 PM |
+| [[Player Handbook/Campaign Information\|Campaign Information]]                                   | 01/06/26 - 12:37 PM |
 | [[Atlas/Worlds/Selûne (Moon)\|Selûne (Moon)]]                                                    | 01/06/26 - 02:25 AM |
 | [[Characters/Socorro\|Socorro]]                                                                  | 01/06/26 - 02:25 AM |
 | [[Atlas/Landmasses/Shyr\|Shyr]]                                                                  | 01/06/26 - 02:21 AM |
 | [[Religion & Deities/Temple of Oghma\|Temple of Oghma]]                                          | 01/06/26 - 02:19 AM |
 | [[Factions & Organisations/La Revolucíon\|La Revolucíon]]                                        | 01/06/26 - 02:17 AM |
-| [[Player Handbook/Campaign Information\|Campaign Information]]                                   | 01/06/26 - 02:16 AM |
 | [[Factions & Organisations/Palace of Exile\|Palace of Exile]]                                    | 01/06/26 - 02:13 AM |
 | [[Atlas/Civilisations/Janya\|Janya]]                                                             | 01/06/26 - 02:09 AM |
 | [[Player Handbook/Character Affiliation Options/Monster Hunters' Guild\|Monster Hunters' Guild]] | 01/06/26 - 02:08 AM |
 | [[Player Handbook/Character Affiliation Options\|Character Affiliation Options]]                 | 01/06/26 - 02:06 AM |
 | [[Home Page\|Home Page]]                                                                         | 01/06/26 - 02:00 AM |
-| [[Atlas/Multiverse\|Multiverse]]                                                                 | 01/06/26 - 01:58 AM |
-| [[Atlas/Landmasses/Gizmiri\|Gizmiri]]                                                            | 01/06/26 - 01:52 AM |
-| [[Atlas/Landmasses/Enstar\|Enstar]]                                                              | 01/06/26 - 01:51 AM |
-| [[Atlas/Wildspaces/Realmspace\|Realmspace]]                                                      | 01/06/26 - 01:51 AM |
 
 { .block-language-dataview}
 

@@ -8,7 +8,7 @@ The [Journeys through the Radiant Citadel](https://www.dndbeyond.com/sources/dn
 There is an overarching plot that I would like to incorporate with the Player Characters and their own stories.
 
 ## Setting
-The [[Atlas/Radiant Citadel\|Radiant Citadel]] is a large city located within the Deep Ethereal and is connected to different Civilisations across the [[Atlas/Multiverse\|Multiverse]].  This includes the Material Plane, along with the Outlands, demi-planes, and a parallel dimension. 
+The [[Atlas/Radiant Citadel\|Radiant Citadel]] is a large city located within the Deep Ethereal and is connected to different Civilisations across the [[Atlas/Multiverse\|Multiverse]].
 
 The Citadel was rediscovered 250 years ago by descendants of the original Civilisations after being lost for ages. Some Civilisations are still missing. These lost civilisations could be anywhere. 
 

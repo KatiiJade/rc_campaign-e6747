@@ -10,10 +10,10 @@
 The other Civilisations use their own years and date systems.
 
 >[!timeline]
->>[!note|no-icon red]- TBD AS - The Covenant gods created Godsbreath
+>>[!note|no-icon red]- Unknown AS - The Covenant gods created Godsbreath
 >>Generations ago, a land was plundered by enemies whose names are lost to time. Five gods came together to save as many of the land's beleaguered inhabitants as they could by taking them to a new home. Those the gods saved named their new land [[Atlas/Civilisations/Godsbreath\|Godsbreath]].
 >
->>[!note|no-icon blue]- TBD AS - Passage of Vultures - Some Djanaians became Nightsea Chil-liren and formed Janya
+>>[!note|no-icon blue]- 500 AS - Passage of Vultures - Some Djanaians became Nightsea Chil-liren and formed Janya
 >>During the [[Passage of Vultures\|Passage of Vultures]] - Some Djaynaians lept from the ships seeking the freedom and became the [[Nightsea Chil-liren\|Nightsea Chil-liren]] who would then form the new deep-sea settlement of [[Atlas/Civilisations/Janya\|Janya]].
 >
 >>[!note|no-icon green]- 250 AS - City Manivarsha was destroyed in Shankhabhumi
@@ -25,7 +25,7 @@ The other Civilisations use their own years and date systems.
 >>[!note|no-icon]- 246 AS - San Citlán was invaded
 >>Nearly five hundred years ago, an invading force rolled across the [[Llanos\|Llanos]] of [[Atlas/Civilisations/Atagua\|Atagua]], thereafter invading the neighbouring region of [[Atlas/Civilisations/San Citlán\|San Citlán]].
 >
->>[!note|no-icon cyan]- TBD AS Colonisers burned great tree and razed Bathalang Puno in Lambakluha, Dayawlongon
+>>[!note|no-icon cyan]- 120 AS Colonisers burned great tree and razed Bathalang Puno in Lambakluha, Dayawlongon
 >>It was once the holiest place in [[Atlas/Civilisations/Dayawlongon\|Dayawlongon]], home to [[Bathalang Puno\|Bathalang Puno]], a temple city nestled within the roots of a colossal banyan tree that shared the city's name. That great tree was said to be where islanders' souls went after death. Some of these souls transcended into [[ninunos\|ninunos]]—dryad-like spirits of the land who serve as stewards to the gods and resided in the surrounding lands. Colonising invaders burned the great tree and razed [[Bathalang Puno\|Bathalang Puno]], killing untold people and spirits alike. In the aftermath, [[Lambakluha\|Lambakluha]] became a cursed place, where spirits seethe in the land, spreading corruption across the island.
 >
 >>[!note|no-icon white]- 1 YC - The Radiant Citadel was resdicovered
@@ -46,10 +46,10 @@ The other Civilisations use their own years and date systems.
 >>[!note|no-icon yellow]- 200 YC - Atash saved Akharin Sangar from the demon Zolmate Shab
 >>Darkness fell upon [[Atlas/Civilisations/Akharin Sangar\|Akharin Sangar]], and [[Zolmate Shab\|Zolmate Shab]] returned. As demons beset the city, Sangarians prayed to the [[Sunweaver\|Sunweaver]], and [[Atash\|Atash]] answered. After an earthshaking battle, the angel emerged victorious.
 >
->>[!note|no-icon brown]- TBD YC Tayyib Empire emerged from a civil war
+>>[!note|no-icon brown]- 240 YC Tayyib Empire emerged from a civil war
 >>The Tayyib Empire recently emerged from a brutal civil war, but its peace is fragile. Monsters roam the hinterland, and people vie for power to stave off desperation during the recovery. 
 >
->>[!note|no-icon white]- TBD YC Tayyib Empire and Umizu were rediscovered
+>>[!note|no-icon white]- 246 YC Tayyib Empire and Umizu were rediscovered
 >>[[Atlas/Civilisations/Tayyib Empire\|Tayyib Empire]] and [[Atlas/Civilisations/Umizu\|Umizu]] were rediscovered and connected to the [[Atlas/Radiant Citadel\|Radiant Citadel]].
 >
 >>[!note|no-icon white]- 250 YC (Present day) Socorro is missing!

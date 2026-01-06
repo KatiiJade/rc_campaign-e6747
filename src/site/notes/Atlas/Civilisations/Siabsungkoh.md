@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/siabsungkoh/"}
 ---
 
-> [!fas-infobox|h1-title no-th]+ # Siabsungkoh
+> [!fas-infobox|h1-title no-th purple]+ # Siabsungkoh
 > ![Siabsungkoh 2.1.jpg](/img/user/Assets/Siabsungkoh%202.1.jpg)
 > ## Information
 > | Header | Header |

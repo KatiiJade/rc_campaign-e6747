@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/janya/"}
 ---
 
-> [!fas-infobox|h1-title no-th]+ # Janya
+> [!fas-infobox|h1-title no-th blue]+ # Janya
 > ![117-12-004.undersea-janya1.jpg](/img/user/Assets/117-12-004.undersea-janya1.jpg)
 > ## Information
 > | Header | Header |
@@ -24,6 +24,7 @@
 > ## History 
 > | Header | Header |
 > | --- | --- |
+> | TBD | [[Passage of Vultures\|Passage of Vultures]] - Some [[Atlas/Civilisations/Djaynai\|Djaynai]]ans lept from the ships seeking the freedom and became the [[Nightsea Chil-liren\|Nightsea Chil-liren]] who would then form the new deep-sea settlement of Janya |
 
 Modern [[Atlas/Civilisations/Djaynai\|Djaynai]] is a coastal realm descended from a grand civilisation. Though the nation has never been defeated by external forces, its fortunes were greatly diminished hundreds of years ago after raiders perpetrated atrocities upon the land and its people in a series of attacks known as the [[Passage of Vultures\|Passage of Vultures]]. [[Atlas/Civilisations/Djaynai\|Djaynai]]'s defenders drove the raiders off, albeit at a high cost. Even in its diminished state, the nation serves as an exemplar of self-sovereignty and dignity, defended by scouts known as the [[Lightsea Lancers\|Lightsea Lancers]], who watch for bandit groups and marauders aiming to raid [[Atlas/Civilisations/Djaynai\|Djaynai]] and its neighbours. 
 

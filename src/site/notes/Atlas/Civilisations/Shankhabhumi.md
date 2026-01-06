@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/shankhabhumi/"}
 ---
 
-> [!fas-infobox|h1-title no-th]+ # Shankhabhumi
+> [!fas-infobox|h1-title no-th green]+ # Shankhabhumi
 > ![Shankhabhumi 1.2.jpg](/img/user/Assets/Shankhabhumi%201.2.jpg)
 > ## Information
 > | Header | Header |

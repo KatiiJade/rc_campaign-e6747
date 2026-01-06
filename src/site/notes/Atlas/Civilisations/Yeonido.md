@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/yeonido/"}
 ---
 
-> [!fas-infobox|h1-title no-th]+ # Yeonido
+> [!fas-infobox|h1-title no-th red]+ # Yeonido
 > ![050-06-001.monsters-and-wild-beasts.webp](/img/user/Assets/050-06-001.monsters-and-wild-beasts.webp)
 > ## Information
 > | Header | Header |
@@ -46,7 +46,7 @@ Those familiar with Yeonido typically know the following details:
 **Languages.** The city's official language is Halri, a language related to Draconic, though all citizens are also fluent in Common. 
 
 ## Legends of Yeonido
-According to the oldest tales, the [[Dokkaebi Mountains\|Dokkaebi Mountains]] rose above a world shrouded in mist. All lands were bleak and terrifying in those days, cloaked in endless darkness. Those who had hope in their hearts set their sights on the [[Dokkaebi Mountains\|Dokkaebi Mountains]] and traveled to the foothills, praying that something would save them.
+According to the oldest tales, the [[Dokkaebi Mountains\|Dokkaebi Mountains]] rose above a world shrouded in mist. All lands were bleak and terrifying in those days, cloaked in endless darkness. Those who had hope in their hearts set their sights on the [[Dokkaebi Mountains\|Dokkaebi Mountains]] and travelled to the foothills, praying that something would save them.
 
 Three great dragon siblings saw the penumbral world and descended from the heavens. The dragon [[Mireu\|Mireu]] gave the mortals at the [[Dokkaebi Mountains\|Dokkaebi Mountains]] a divine gift—a pearl infused with the dragon's own heavenly power, which drove back the mist. [[Mireu\|Mireu]]'s people formed the city of Yeonido, while the other two dragons established the lands of Xing ([[Atlas/Civilisations/Yongjing\|Yongjing]]) and [[Atlas/Civilisations/Umizu\|Umizu]]. Tales say that the [[Seat of Dragons\|Seat of Dragons]] in Yeonido is still home to [[Mireu\|Mireu]]'s pearl, proof of the city's divine origins. However, if the pearl exists, its location is a secret fiercely guarded by the royal family.
 

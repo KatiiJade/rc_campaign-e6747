@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/tayyib-empire/"}
 ---
 
-> [!fas-infobox|h1-title no-th]+ # Tayyib Empire
+> [!fas-infobox|h1-title no-th brown]+ # Tayyib Empire
 > ![Tayyib 1.png](/img/user/Assets/Tayyib%201.png)
 > ## Information
 > | Header | Header |
@@ -29,8 +29,6 @@
 > | Header | Header |
 > | --- | --- |
 > | TBD | Recently emerged from a civil war |
-
-
 
 The Tayyib Empire recently emerged from a brutal civil war, but its peace is fragile. Monsters roam the hinterland, and people vie for power to stave off desperation during the recovery. 
 

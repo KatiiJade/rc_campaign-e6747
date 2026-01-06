@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/yongjing/"}
 ---
 
-> [!fas-infobox|h1-title no-th]+ # Yongjing
+> [!fas-infobox|h1-title no-th white]+ # Yongjing
 > ![123-13-002.hall-divine-wisdom 2.jpg](/img/user/Assets/123-13-002.hall-divine-wisdom%202.jpg)
 > ## Information
 > | Header | Header |

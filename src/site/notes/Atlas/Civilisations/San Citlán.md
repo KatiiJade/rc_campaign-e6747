@@ -26,6 +26,8 @@
 > ## History 
 > | Header | Header |
 > | --- | --- |
+> | 46 YC | [[Wars of Separation\|Wars of Separation]] the colonial rule ended |
+> | 247 AS | Sant Citlán was invaded by a colonial force |
 
 The stone-and-iron city of San Citlán stands at a confluence of ley lines, where the veil between the worlds of the living and the dead is thin. It's a place suffused with magic, where citizens commune with the dead in joyful festivals, and industrious minds create wonders of magic and technology. Despite San Citlán's rich culture and magical marvels, economic inequality is stark between the majority of its inhabitants and the wealthy landowners and technocrats who control the land's resources. These elite reap the rewards of progress with little regard for those left behind. As harsh as life can be for those in the city, the borderlands are harsher still. There, every day is a struggle to survive in the face of poverty, banditry, and drought. 
 
@@ -49,7 +51,7 @@ Those familiar with San Citlán know the following facts:
 ## Legends of San Citlán
 According to the tale of San Citlán's founding, an explorer named [[Citlali\|Citlali]] became lost in the valley of the [[Calaveras River\|Calaveras River]]. After wandering for days, [[Citlali\|Citlali]] saw an elegantly dressed skeletal figure trailing behind her, never moving too close or straying too far. She tried to flee, but the figure always caught up. When she turned and followed her pursuer instead, the skeleton led [[Citlali\|Citlali]] to a hidden cenote. [[Citlali\|Citlali]] dove in to assuage her thirst, and when she resurfaced, the skeletal figure was gone.
 
-Observing that the area was rich in precious minerals, [[Citlali\|Citlali]] returned home and convinced others to join her to settle the valley north of the cenote and the mountains now known as [[Citlali's Rest\|Citlali's Rest]]. [[Citlali\|Citlali]] grew old, and the skeletal figure returned to take her, but the settlement remained. It was named in her honoru, with Citlán roughly translating to "the place near Citlali." People began calling the skeletal figure [[La Catrina\|La Catrina]] for her elegant clothing.
+Observing that the area was rich in precious minerals, [[Citlali\|Citlali]] returned home and convinced others to join her to settle the valley north of the cenote and the mountains now known as [[Citlali's Rest\|Citlali's Rest]]. [[Citlali\|Citlali]] grew old, and the skeletal figure returned to take her, but the settlement remained. It was named in her honour, with Citlán roughly translating to "the place near Citlali." People began calling the skeletal figure [[La Catrina\|La Catrina]] for her elegant clothing.
 
 San Citlán's history is rife with conflict. After years of failed invasions over its first century of existence, the city was overcome and occupied by a colonising force. Colonial rule lasted for two hundred years and ended in a bloody series of conflicts called the [[Wars of Separation\|Wars of Separation]]. In the aftermath, the folk of San Citlán held their first elections, finally looking forward to a time of peace. The wars have left scars, turning previously fertile lands barren and driving away the fey that once inhabited the region—some say forever.
 

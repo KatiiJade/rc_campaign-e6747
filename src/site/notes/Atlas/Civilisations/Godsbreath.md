@@ -4,7 +4,7 @@
 
 
 
-> [!fas-infobox|h1-title no-th]+ # Godsbreath
+> [!fas-infobox|h1-title no-th red]+ # Godsbreath
 > ![Pasted image 20260104204626.png](/img/user/Assets/Pasted%20image%2020260104204626.png)
 > ## Information
 > | Header | Header |
@@ -26,6 +26,7 @@
 > ## History 
 > | Header | Header |
 > | --- | --- |
+> |  | The [[Covenant\|Covenant]] gods came together and created Godsbreath |
 
 Generations ago, a land was plundered by enemies whose names are lost to time. Five gods came together to save as many of the land's beleaguered inhabitants as they could by taking them to a new home. Those the gods saved named their new land Godsbreath, in honour of the deities who brought them across a vast sea to a new life. These inhabitants banded together to build strong communities and protect themselves from danger. From one generation to the next, they share stories of their past, of the distant lands of their ancestors, and of the unfulfilled promise of reunion with ancestors left behind in a lost land. 
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/multiverse-timeline/"}
 ---
 
-[[Player Handbook/Character Affiliation Options/Speaker Sholeh\|Sholeh]] and her expeditious adventurers created new terms for years system that is used on the [[Atlas/Radiant Citadel\|Radiant Citadel]].
+[[Player Handbook/Character Affiliation Options/Speaker Sholeh (Affiliation)\|Sholeh]] and her expeditious adventurers created new terms for years system that is used on the [[Atlas/Radiant Citadel\|Radiant Citadel]].
 
 **AS stands for Age of Silence** and represents the time before the Radiant Citadel was rediscovered.
 **YC stands for Years of Concord** and represents the time after the Radiant Citadel was rediscovered.
@@ -29,7 +29,7 @@ The other Civilisations use their own years and date systems.
 >>It was once the holiest place in [[Atlas/Civilisations/Dayawlongon\|Dayawlongon]], home to [[Bathalang Puno\|Bathalang Puno]], a temple city nestled within the roots of a colossal banyan tree that shared the city's name. That great tree was said to be where islanders' souls went after death. Some of these souls transcended into [[ninunos\|ninunos]]—dryad-like spirits of the land who serve as stewards to the gods and resided in the surrounding lands. Colonising invaders burned the great tree and razed [[Bathalang Puno\|Bathalang Puno]], killing untold people and spirits alike. In the aftermath, [[Lambakluha\|Lambakluha]] became a cursed place, where spirits seethe in the land, spreading corruption across the island.
 >
 >>[!note|no-icon white]- 1 YC - The Radiant Citadel was resdicovered
->>The great brass dragon [[Player Handbook/Character Affiliation Options/Speaker Sholeh\|Sholeh]] and her expeditionary force of adventurers finally found the [[Atlas/Radiant Citadel\|Radiant Citadel]] within the [[Atlas/Planes/Ethereal Plane\|Ethereal Plane]]. [[Player Handbook/Character Affiliation Options/Speaker Sholeh\|Sholeh]]'s home, [[Atlas/Civilisations/Akharin Sangar\|Akharin Sangar]], was the first civilisation to reconnect to the Citadel. [[Player Handbook/Character Affiliation Options/Speaker Sholeh\|Sholeh]] dubbed this a new era of the Years of Concord.
+>>The great brass dragon [[Player Handbook/Character Affiliation Options/Speaker Sholeh (Affiliation)\|Sholeh]] and her expeditionary force of adventurers finally found the [[Atlas/Radiant Citadel\|Radiant Citadel]] within the [[Atlas/Planes/Ethereal Plane\|Ethereal Plane]]. [[Player Handbook/Character Affiliation Options/Speaker Sholeh (Affiliation)\|Sholeh]]'s home, [[Atlas/Civilisations/Akharin Sangar\|Akharin Sangar]], was the first civilisation to reconnect to the Citadel. [[Player Handbook/Character Affiliation Options/Speaker Sholeh (Affiliation)\|Sholeh]] dubbed this a new era of the Years of Concord.
 >
 >>[!note|no-icon]- 38 YC - The War of Independence commenced in Atagua
 >>The mixed descendants of the [[Flood People\|Flood People]] who first settled [[Atlas/Civilisations/Atagua\|Atagua]] and former invaders who made peace with them decisively expelled their would-be rulers after a thirteen-year [[War of Independence\|War of Independence]].
@@ -37,7 +37,7 @@ The other Civilisations use their own years and date systems.
 >> [!note|no-icon]- 46 YC - The Wars of Separation the colonial rule ended in San Citlán
 >>Colonial rule lasted for two hundred years in [[Atlas/Civilisations/San Citlán\|San Citlán]] and ended in a bloody series of conflicts called the [[Wars of Separation\|Wars of Separation]].
 >
->>[!note|no-icon]- 50 YC - Dayawlongon became and independent settlement
+>>[!note|no-icon]- 50 YC - Dayawlongon became an independent settlement
 >>[[Atlas/Civilisations/Dayawlongon\|Dayawlongon]] has survived battles between its resident clans and the incursions of five foreign powers, and it has been independent and largely at peace for the last two centuries.
 >
 >>[!note|no-icon]- 51 YC - The War of Independence ended in Atagua
@@ -53,4 +53,4 @@ The other Civilisations use their own years and date systems.
 >>[[Atlas/Civilisations/Tayyib Empire\|Tayyib Empire]] and [[Atlas/Civilisations/Umizu\|Umizu]] were rediscovered and connected to the [[Atlas/Radiant Citadel\|Radiant Citadel]].
 >
 >>[!note|no-icon white]- 250 YC (Present day) Socorro is missing!
->>[[Characters/Socorro\|Socorro The Exile]] is missing!
+>>[[Characters/Socorro\|Socorro the Exile]] is missing!

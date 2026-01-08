@@ -22,13 +22,11 @@ The planes of existence are realms of myth and mystery. They’re not simply oth
 
 **Positive and Negative Planes.** These two planes enfold the rest of the cosmology, providing the raw forces of life and death that underlie all existence in the multiverse.
 
-## Diagrams
-Below are some diagrams to help visualise the different planes.
-### Planes Diagram
+## Planes Diagram
 ![Pasted image 20260105222016.jpg](/img/user/Assets/Pasted%20image%2020260105222016.jpg)
 *Source: [2024 Dungeon Master's Guide, Chapter 6: Cosmology](https://www.dndbeyond.com/sources/dnd/dmg-2024/cosmology#ThePlanes)*
 
-### Planar Geography Diagram
+## Planar Geography Diagram
 ![Ethereal Plane with Demiplanes.webp](/img/user/Assets/Ethereal%20Plane%20with%20Demiplanes.webp)
 *Source: [enworld](https://www.enworld.org/media/planar-geography-png.88549/)*
 

@@ -10,9 +10,9 @@
 > | **Location** | [[Atlas/Planes/Ethereal Plane\|Ethereal Plane]], [[Atlas/Planes/Deep Ethereal\|Deep Ethereal]] |
 > | **Society** | Ethereal egalitarian settlement |
 > |**Demonym** |Citadel Denizens |
-> | **Religions** | [[Player Handbook/Character Affiliation Options/House of Convalescence\|House of Convalescence]] (Allfaiths Temple), [[Religion & Deities/Temple of Oghma\|Temple of Oghma]] |
+> | **Religions** | [[House of Convalescence\|House of Convalescence]] (Allfaiths Temple), [[Religion & Deities/Temple of Oghma\|Temple of Oghma]] |
 > | **Political Type** | Collaborative multilateral council |
-> | **Council** | [[Player Handbook/Character Affiliation Options/Speakers for the Ancestors\|Speakers for the Ancestors]] |
+> | **Council** | [[Speakers for the Ancestors\|Speakers for the Ancestors]] |
 > | **Imports** | Alcohol, grain, livestock, ore, spices, textiles, and exotic goods from other lands  |
 > | **Exports** | Clothing, magic items, technology and other refined goods and materials |
 > | **Currency** | cp, sp, gp, pp - other currencies can be exchanged through the [[InterPlanar Merchant Guild\|InterPlanar Merchant Guild]] |
@@ -30,8 +30,8 @@
 > ## History 
 > | Header | Header |
 > | --- | --- |
-> | YEAR TBD | [[Atlas/Civilisations/Umizu\|Umizu]] and [[Tayyib\|Tayyib]] reconnected |
-> |250 years ago | Rediscovered by [[Player Handbook/Character Affiliation Options/Speaker Sholeh\|Speaker Sholeh]] and reconnected to [[Atlas/Civilisations/Akharin Sangar\|Akharin Sangar]] and 12 other [[Atlas/Great Civilisations\|Great Civilisations]] |
+> | YEAR TBD | [[Atlas/Civilisations/Umizu\|Umizu]] and [[Atlas/Civilisations/Tayyib Empire\|Tayyib Empire]] reconnected |
+> |250 years ago | Rediscovered by [[Speaker Sholeh\|Speaker Sholeh]] and reconnected to [[Atlas/Civilisations/Akharin Sangar\|Akharin Sangar]] and 12 other [[Atlas/Great Civilisations\|Great Civilisations]] |
 
 Against the unending mist and unseen terrors of the [[Atlas/Planes/Ethereal Plane\|Ethereal Plane]], the Radiant Citadel stands bright as a bastion of hope. It's a living relic of the ingenuity and collaboration of twenty-seven [[Atlas/Great Civilisations\|Great Civilisations]]. Abandoned and lost for ages, the Citadel was resurrected from its slumber and reclaimed by descendants of those societies, though some peoples remain missing. The city serves as a nexus of diplomacy and trade, a repository of histories and secrets, and a thriving sanctuary for those seeking safety or a better life.
 
@@ -49,17 +49,17 @@ Two hundred and fifty years ago, the great brass dragon [[Sholeh\|Sholeh]] under
 
 [[Sholeh\|Sholeh]] gathered a mighty expeditionary force of adventurers from the civilisations she believed originally created the Radiant Citadel. Their travels took them across perilous planes and to distant worlds, and many died or gave up in despair. Only a quarter of the heroes who set out completed [[Sholeh\|Sholeh]]'s quest, but the adventurers' sacrifices were rewarded. In the depths of the [[Atlas/Planes/Ethereal Plane\|Ethereal Plane]], the Radiant Citadel lay dormant and abandoned by all but the [[Incarnates\|Incarnates]] of the [[Preserve of the Ancestors\|Preserve of the Ancestors]]. Yet it was undiminished in its grandeur, waiting for its inheritors to reawaken its power for a new era.
 
-Many believe that the full potential of the Radiant Citadel can be unlocked only when the twelve missing civilisations are found and their representatives join the [[Player Handbook/Character Affiliation Options/Speakers for the Ancestors\|Speakers for the Ancestors]].
+Many believe that the full potential of the Radiant Citadel can be unlocked only when the twelve missing civilisations are found and their representatives join the [[Speakers for the Ancestors\|Speakers for the Ancestors]].
 ## Life in the Citadel
 The Radiant Citadel is a city of immigrants. Several of the explorers who reclaimed the Citadel were refugees who escaped hardships that plagued their lands. They chose the Citadel as their home, despite its strangeness and the surreal surroundings of the [[Atlas/Planes/Deep Ethereal\|Deep Ethereal]], as it presented an opportunity to start anew. Most of the city's current inhabitants are descendants of the founding civilisations active in the Citadel, but all are welcome.
 
 Some find living in the [[Atlas/Planes/Deep Ethereal\|Deep Ethereal]] too disquieting to stay or chafe at the confines of the Citadel. Others depart out of fear that the [[Keening Gloom\|Keening Gloom]] will destroy the Citadel. Their numbers are replenished by new arrivals who seek a different life, want to study the city's lore, or find solace in the city's peace and safety. The Citadel's society is shaped by this ebb and flow. Traditions, customs, and values are a mix of old and new; while some adhere to rituals no longer followed in their homeland, others create their own novel practices.
 
 ### Governance
-The Radiant Citadel is governed by a council known as the [[Player Handbook/Character Affiliation Options/Speakers for the Ancestors\|Speakers for the Ancestors]]. Each Speaker is a descendant of one of the founding civilisations currently known to the Citadel.
+The Radiant Citadel is governed by a council known as the [[Speakers for the Ancestors\|Speakers for the Ancestors]]. Each Speaker is a descendant of one of the founding civilisations currently known to the Citadel.
 
 ### Society
-Denizens of the Radiant Citadel strive to sustain an egalitarian society. Every citizen is entitled to a basic income that affords them the necessities of living and dignity in lifestyle. Food, water, and green spaces are equally accessible throughout the city. The [[Player Handbook/Character Affiliation Options/House of Convalescence\|House of Convalescence]] turns no one away; healing is priced according to one's means, and the poorest are served without charge. All housing is public, distributed, and administered through the city's councils.
+Denizens of the Radiant Citadel strive to sustain an egalitarian society. Every citizen is entitled to a basic income that affords them the necessities of living and dignity in lifestyle. Food, water, and green spaces are equally accessible throughout the city. The [[House of Convalescence\|House of Convalescence]] turns no one away; healing is priced according to one's means, and the poorest are served without charge. All housing is public, distributed, and administered through the city's councils.
 
 ### Tariffs and Taxation
 Taxes are progressive to help reduce the gap between the most affluent and the poorest. High tariffs on imports keep the public coffers full, but the Speakers lower or remove tariffs for civilisations in trouble. Similarly, visitors to the Radiant Citadel pay a toll to enter.
@@ -87,12 +87,12 @@ The keepers of vast wisdom from distant lands, the Incarnates are collections of
 The largest and most influential are those of the founding civilisations collectively known as the [[Dawn Incarnates\|Dawn Incarnates]]. 
 
 ### Speakers for the Ancestors
-The [[Player Handbook/Character Affiliation Options/Speakers for the Ancestors\|Speakers for the Ancestors]] are the ruling body of the Radiant Citadel. Candidates are chosen through an election among the diaspora of the people they represent.
+The [[Speakers for the Ancestors\|Speakers for the Ancestors]] are the ruling body of the Radiant Citadel. Candidates are chosen through an election among the diaspora of the people they represent.
 
 The Speakers' first duty is to the Radiant Citadel, which sometimes puts them at odds with the governments of the founding civilizations, particularly in tariff disputes or major crises. Thus far, the Radiant Citadel's policy is to resolutely remain neutral in all conflicts—whether they involve the founding civilizations or otherwise. However, the Citadel seeks to rescue refugees and send humanitarian aid to the limits of its resources.
 
 ### Shieldbearers
-Headquartered in the [[Factions & Organisations/Palace of Exile\|Palace of Exile]], the [[Player Handbook/Character Affiliation Options/Shieldbearers\|Shieldbearers]] have led the Radiant Citadel's rescue and relocation missions. Typically organised in cohorts of four to six members, they are deployed to lands in crisis. Strict rules of engagement prevent them from impacting local conditions or taking sides in a conflict; their mandate allows them only to extract those in danger and defend themselves if attacked. They are among the bravest of the Citadel, and heroes who die in service to the [[Player Handbook/Character Affiliation Options/Shieldbearers\|Shieldbearers]] receive the city's highest honours.
+Headquartered in the [[Factions & Organisations/Palace of Exile\|Palace of Exile]], the [[Shieldbearers\|Shieldbearers]] have led the Radiant Citadel's rescue and relocation missions. Typically organised in cohorts of four to six members, they are deployed to lands in crisis. Strict rules of engagement prevent them from impacting local conditions or taking sides in a conflict; their mandate allows them only to extract those in danger and defend themselves if attacked. They are among the bravest of the Citadel, and heroes who die in service to the [[Shieldbearers\|Shieldbearers]] receive the city's highest honours.
 
 ## Entering the Citadel
 Most visitors come to the city by passage on one of the [[Concord Jewels\|Concord Jewels]]. However, it's possible to find the Citadel through exploration of the [[Atlas/Planes/Deep Ethereal\|Deep Ethereal]]. The [[Auroral Diamond\|Auroral Diamond]] acts like a beacon for the lost and hopeless, and many who seek the Radiant Citadel within the [[Atlas/Planes/Deep Ethereal\|Deep Ethereal]] find their way there within a few days of searching.

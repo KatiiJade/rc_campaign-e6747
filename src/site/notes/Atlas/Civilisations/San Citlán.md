@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/san-citlan/"}
 ---
 
-> [!fas-infobox|h1-title no-th]+ # San Citlán
+> [!fas-infobox|h1-title no-th white]+ # San Citlán
 > ![034-04-004.night-of-the-remembered 1.jpg](/img/user/Assets/034-04-004.night-of-the-remembered%201.jpg)
 > ## Information
 > | Header | Header |

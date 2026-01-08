@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/yeonido/"}
 ---
 
-> [!fas-infobox|h1-title no-th]+ # Yeonido
+> [!fas-infobox|h1-title no-th white]+ # Yeonido
 > ![050-06-001.monsters-and-wild-beasts.webp](/img/user/Assets/050-06-001.monsters-and-wild-beasts.webp)
 > ## Information
 > | Header | Header |

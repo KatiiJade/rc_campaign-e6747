@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/tayyib-empire/"}
 ---
 
-> [!fas-infobox|h1-title no-th]+ # Tayyib Empire
+> [!fas-infobox|h1-title no-th white]+ # Tayyib Empire
 > ![Tayyib 1.png](/img/user/Assets/Tayyib%201.png)
 > ## Information
 > | Header | Header |
@@ -16,7 +16,7 @@
 > | **Imports** |  |
 > | **Exports** |  Alchemy, lentils, rice, spices, textiles  |
 > | **Currency** | cp, sp, gp, pp  |
-> | **Real World Inspiration** |Hindi/Bhuddist (Northern India)|
+> | **Real World Inspiration** |Hindi/Buddhist (Northern India)|
 > ## Species
 > | Header | Header |
 > | --- | --- |

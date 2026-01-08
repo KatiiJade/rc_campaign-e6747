@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/janya/"}
 ---
 
-> [!fas-infobox|h1-title no-th]+ # Janya
+> [!fas-infobox|h1-title no-th white]+ # Janya
 > ![117-12-004.undersea-janya1.jpg](/img/user/Assets/117-12-004.undersea-janya1.jpg)
 > ## Information
 > | Header | Header |

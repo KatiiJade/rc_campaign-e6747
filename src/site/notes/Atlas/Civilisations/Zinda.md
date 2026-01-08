@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/civilisations/zinda/"}
 ---
 
-> [!fas-infobox|h1-title no-th]+ # Zinda
+> [!fas-infobox|h1-title no-th white]+ # Zinda
 > ![041-05-001.march-of-vice-festivities3.jpg](/img/user/Assets/041-05-001.march-of-vice-festivities3.jpg)
 > ## Information
 > | Header | Header |
